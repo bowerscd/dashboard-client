@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools", "setuptools-scm"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "aoe2dashboard"
+version = '0.0.0.dev0'
+authors = [
+      { email = "bowerscd.source@gmail.com" },
+      { name = "Deven Bowers" }
+]
+
+description = "An event-based client for the AOE2 Spectator Dashboard"
+readme = "README.md"
+classifiers = [ 'Development Status :: 2 - Pre-Alpha', 'Private :: Do Not Upload' ]
+license = { text = "MIT" }
+
+dependencies = [ "aiohttp" ]
+requires-python = "~= 3.11"
+
+
+[project.optional-dependencies]
+test = []
+
+
+[project.urls]
+
+
+[tool.setuptools]
+packages = [ "aoe2dashboard" ]
