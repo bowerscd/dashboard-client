@@ -1,0 +1,780 @@
+{
+	"cls": 6,
+	"target_id": null,
+	"data": {
+		"hours": [
+			{
+				"hour": 0,
+				"hist": 18,
+				"curr": 17
+			},
+			{
+				"hour": 1,
+				"hist": 15,
+				"curr": 14
+			},
+			{
+				"hour": 2,
+				"hist": 16,
+				"curr": 19
+			},
+			{
+				"hour": 3,
+				"hist": 13,
+				"curr": 12
+			},
+			{
+				"hour": 4,
+				"hist": 11,
+				"curr": 5
+			},
+			{
+				"hour": 5,
+				"hist": 8,
+				"curr": 0
+			},
+			{
+				"hour": 6,
+				"hist": 6,
+				"curr": 0
+			},
+			{
+				"hour": 7,
+				"hist": 8,
+				"curr": 0
+			},
+			{
+				"hour": 8,
+				"hist": 10,
+				"curr": 0
+			},
+			{
+				"hour": 9,
+				"hist": 11,
+				"curr": 0
+			},
+			{
+				"hour": 10,
+				"hist": 13,
+				"curr": 0
+			},
+			{
+				"hour": 11,
+				"hist": 17,
+				"curr": 0
+			},
+			{
+				"hour": 12,
+				"hist": 20,
+				"curr": 0
+			},
+			{
+				"hour": 13,
+				"hist": 21,
+				"curr": 0
+			},
+			{
+				"hour": 14,
+				"hist": 25,
+				"curr": 0
+			},
+			{
+				"hour": 15,
+				"hist": 28,
+				"curr": 0
+			},
+			{
+				"hour": 16,
+				"hist": 26,
+				"curr": 0
+			},
+			{
+				"hour": 17,
+				"hist": 30,
+				"curr": 0
+			},
+			{
+				"hour": 18,
+				"hist": 29,
+				"curr": 0
+			},
+			{
+				"hour": 19,
+				"hist": 27,
+				"curr": 0
+			},
+			{
+				"hour": 20,
+				"hist": 27,
+				"curr": 0
+			},
+			{
+				"hour": 21,
+				"hist": 26,
+				"curr": 0
+			},
+			{
+				"hour": 22,
+				"hist": 27,
+				"curr": 0
+			},
+			{
+				"hour": 23,
+				"hist": 23,
+				"curr": 0
+			}
+		],
+		"players": [
+			{
+				"name": "Hoang",
+				"curr": 18,
+				"hist": 7
+			},
+			{
+				"name": "Ozone",
+				"curr": 15,
+				"hist": 3
+			},
+			{
+				"name": "Hearttt",
+				"curr": 10,
+				"hist": 0
+			},
+			{
+				"name": "biscuit",
+				"curr": 9,
+				"hist": 0
+			},
+			{
+				"name": "slam",
+				"curr": 4,
+				"hist": 13
+			},
+			{
+				"name": "Dobbs",
+				"curr": 2,
+				"hist": 12
+			},
+			{
+				"name": "Doomster",
+				"curr": 2,
+				"hist": 11
+			},
+			{
+				"name": "LY007",
+				"curr": 1,
+				"hist": 10
+			},
+			{
+				"name": "TaToH",
+				"curr": 1,
+				"hist": 10
+			},
+			{
+				"name": "SapientFez",
+				"curr": 0,
+				"hist": 12
+			},
+			{
+				"name": "Kongensgade",
+				"curr": 0,
+				"hist": 19
+			},
+			{
+				"name": "T90",
+				"curr": 0,
+				"hist": 13
+			},
+			{
+				"name": "GLX_Rusher",
+				"curr": 0,
+				"hist": 13
+			},
+			{
+				"name": "deaKer",
+				"curr": 0,
+				"hist": 14
+			},
+			{
+				"name": "Dooidy",
+				"curr": 0,
+				"hist": 9
+			}
+		],
+		"teams": [
+			{
+				"team": "DarkSidE",
+				"curr": 35,
+				"hist": 21
+			},
+			{
+				"team": "Fox",
+				"curr": 31,
+				"hist": 20
+			},
+			{
+				"team": "Killing Generation of Brazil",
+				"curr": 19,
+				"hist": 8
+			},
+			{
+				"team": "New Chapter",
+				"curr": 19,
+				"hist": 12
+			},
+			{
+				"team": "White Wolf Palace",
+				"curr": 44,
+				"hist": 30
+			},
+			{
+				"team": "Combi Team",
+				"curr": 30,
+				"hist": 29
+			},
+			{
+				"team": "Aftermath",
+				"curr": 19,
+				"hist": 16
+			},
+			{
+				"team": "Kyo All Fallen",
+				"curr": 10,
+				"hist": 10
+			},
+			{
+				"team": "SalzZ",
+				"curr": 9,
+				"hist": 6
+			},
+			{
+				"team": "Clown Legion",
+				"curr": 24,
+				"hist": 29
+			},
+			{
+				"team": "Vietnam Legends",
+				"curr": 16,
+				"hist": 12
+			},
+			{
+				"team": "Sons of the Sun",
+				"curr": 13,
+				"hist": 5
+			},
+			{
+				"team": "Rulers of Rome",
+				"curr": 16,
+				"hist": 10
+			},
+			{
+				"team": "The Amigos",
+				"curr": 27,
+				"hist": 21
+			},
+			{
+				"team": "Hot Young Masters",
+				"curr": 8,
+				"hist": 8
+			},
+			{
+				"team": "XEVER",
+				"curr": 16,
+				"hist": 16
+			},
+			{
+				"team": "Dark Empire",
+				"curr": 6,
+				"hist": 9
+			},
+			{
+				"team": "CZ",
+				"curr": 5,
+				"hist": 1
+			},
+			{
+				"team": "MYinsanity",
+				"curr": 18,
+				"hist": 23
+			},
+			{
+				"team": "GamerLegion",
+				"curr": 12,
+				"hist": 10
+			},
+			{
+				"team": "The BrotherHood Kappa",
+				"curr": 3,
+				"hist": 1
+			},
+			{
+				"team": "Age of Queens",
+				"curr": 3,
+				"hist": 2
+			},
+			{
+				"team": "QuEnDi",
+				"curr": 3,
+				"hist": 8
+			},
+			{
+				"team": "Team Maswi",
+				"curr": 4,
+				"hist": 4
+			},
+			{
+				"team": "Russia F",
+				"curr": 2,
+				"hist": 1
+			},
+			{
+				"team": "Team Honor",
+				"curr": 2,
+				"hist": 6
+			},
+			{
+				"team": "Gaucho",
+				"curr": 2,
+				"hist": 1
+			},
+			{
+				"team": "Suomi",
+				"curr": 0,
+				"hist": 5
+			},
+			{
+				"team": "PUB",
+				"curr": 0,
+				"hist": 2
+			},
+			{
+				"team": "One Punch",
+				"curr": 0,
+				"hist": 5
+			},
+			{
+				"team": "InDuS",
+				"curr": 0,
+				"hist": 3
+			}
+		],
+		"dow": [
+			{
+				"name": "11-02",
+				"actual": 430,
+				"average": 431
+			},
+			{
+				"name": "11-03",
+				"actual": 606,
+				"average": 531
+			},
+			{
+				"name": "11-04",
+				"actual": 574,
+				"average": 513
+			},
+			{
+				"name": "11-05",
+				"actual": 664,
+				"average": 513
+			},
+			{
+				"name": "11-06",
+				"actual": 513,
+				"average": 450
+			},
+			{
+				"name": "11-07",
+				"actual": 553,
+				"average": 498
+			},
+			{
+				"name": "11-08",
+				"actual": 453,
+				"average": 500
+			},
+			{
+				"name": "11-09",
+				"actual": 416,
+				"average": 431
+			},
+			{
+				"name": "11-10",
+				"actual": 492,
+				"average": 531
+			},
+			{
+				"name": "11-11",
+				"actual": 536,
+				"average": 513
+			},
+			{
+				"name": "11-12",
+				"actual": 463,
+				"average": 513
+			},
+			{
+				"name": "11-13",
+				"actual": 505,
+				"average": 450
+			},
+			{
+				"name": "11-14",
+				"actual": 444,
+				"average": 498
+			},
+			{
+				"name": "11-15",
+				"actual": 518,
+				"average": 500
+			},
+			{
+				"name": "11-16",
+				"actual": 509,
+				"average": 431
+			},
+			{
+				"name": "11-17",
+				"actual": 593,
+				"average": 531
+			},
+			{
+				"name": "11-18",
+				"actual": 511,
+				"average": 513
+			},
+			{
+				"name": "11-19",
+				"actual": 416,
+				"average": 513
+			},
+			{
+				"name": "11-20",
+				"actual": 461,
+				"average": 450
+			},
+			{
+				"name": "11-21",
+				"actual": 453,
+				"average": 498
+			},
+			{
+				"name": "11-22",
+				"actual": 485,
+				"average": 500
+			},
+			{
+				"name": "11-23",
+				"actual": 370,
+				"average": 431
+			},
+			{
+				"name": "11-24",
+				"actual": 436,
+				"average": 531
+			},
+			{
+				"name": "11-25",
+				"actual": 433,
+				"average": 513
+			},
+			{
+				"name": "11-26",
+				"actual": 510,
+				"average": 513
+			},
+			{
+				"name": "11-27",
+				"actual": 322,
+				"average": 450
+			},
+			{
+				"name": "11-28",
+				"actual": 545,
+				"average": 498
+			},
+			{
+				"name": "11-29",
+				"actual": 546,
+				"average": 500
+			},
+			{
+				"name": "11-30",
+				"actual": 67,
+				"average": 431
+			}
+		],
+		"percent": [
+			{
+				"name": "Rank 1-50",
+				"today": 80,
+				"yesterday": 68
+			},
+			{
+				"name": "Rank 51-100",
+				"today": 68,
+				"yesterday": 70
+			},
+			{
+				"name": "Rank 101-150",
+				"today": 54,
+				"yesterday": 72
+			},
+			{
+				"name": "Rank 151-200",
+				"today": 40,
+				"yesterday": 58
+			},
+			{
+				"name": "Rank 201-250",
+				"today": 78,
+				"yesterday": 86
+			}
+		],
+		"viewers": [
+			{
+				"hour": 0,
+				"hist": 2649,
+				"curr": 1851
+			},
+			{
+				"hour": 1,
+				"hist": 2503,
+				"curr": 1509
+			},
+			{
+				"hour": 2,
+				"hist": 2217,
+				"curr": 1178
+			},
+			{
+				"hour": 3,
+				"hist": 2040,
+				"curr": 972
+			},
+			{
+				"hour": 4,
+				"hist": 1375,
+				"curr": 830
+			},
+			{
+				"hour": 5,
+				"hist": 1072,
+				"curr": 0
+			},
+			{
+				"hour": 6,
+				"hist": 889,
+				"curr": 0
+			},
+			{
+				"hour": 7,
+				"hist": 953,
+				"curr": 0
+			},
+			{
+				"hour": 8,
+				"hist": 1021,
+				"curr": 0
+			},
+			{
+				"hour": 9,
+				"hist": 1114,
+				"curr": 0
+			},
+			{
+				"hour": 10,
+				"hist": 1040,
+				"curr": 0
+			},
+			{
+				"hour": 11,
+				"hist": 1229,
+				"curr": 0
+			},
+			{
+				"hour": 12,
+				"hist": 2112,
+				"curr": 0
+			},
+			{
+				"hour": 13,
+				"hist": 2855,
+				"curr": 0
+			},
+			{
+				"hour": 14,
+				"hist": 4118,
+				"curr": 0
+			},
+			{
+				"hour": 15,
+				"hist": 5027,
+				"curr": 0
+			},
+			{
+				"hour": 16,
+				"hist": 7739,
+				"curr": 0
+			},
+			{
+				"hour": 17,
+				"hist": 8422,
+				"curr": 0
+			},
+			{
+				"hour": 18,
+				"hist": 9514,
+				"curr": 0
+			},
+			{
+				"hour": 19,
+				"hist": 9930,
+				"curr": 0
+			},
+			{
+				"hour": 20,
+				"hist": 9992,
+				"curr": 0
+			},
+			{
+				"hour": 21,
+				"hist": 10198,
+				"curr": 0
+			},
+			{
+				"hour": 22,
+				"hist": 8521,
+				"curr": 0
+			},
+			{
+				"hour": 23,
+				"hist": 5172,
+				"curr": 0
+			}
+		],
+		"users": [
+			{
+				"hour": 0.0,
+				"hist": 6432,
+				"curr": 6293
+			},
+			{
+				"hour": 1.0,
+				"hist": 6767,
+				"curr": 6730
+			},
+			{
+				"hour": 2.0,
+				"hist": 7157,
+				"curr": 7134
+			},
+			{
+				"hour": 3.0,
+				"hist": 6682,
+				"curr": 6361
+			},
+			{
+				"hour": 4.0,
+				"hist": 5792,
+				"curr": 5438
+			},
+			{
+				"hour": 5.0,
+				"hist": 4694,
+				"curr": 0
+			},
+			{
+				"hour": 6.0,
+				"hist": 3951,
+				"curr": 0
+			},
+			{
+				"hour": 7.0,
+				"hist": 3670,
+				"curr": 0
+			},
+			{
+				"hour": 8.0,
+				"hist": 3702,
+				"curr": 0
+			},
+			{
+				"hour": 9.0,
+				"hist": 3824,
+				"curr": 0
+			},
+			{
+				"hour": 10.0,
+				"hist": 4183,
+				"curr": 0
+			},
+			{
+				"hour": 11.0,
+				"hist": 5067,
+				"curr": 0
+			},
+			{
+				"hour": 12.0,
+				"hist": 6412,
+				"curr": 0
+			},
+			{
+				"hour": 13.0,
+				"hist": 7816,
+				"curr": 0
+			},
+			{
+				"hour": 14.0,
+				"hist": 8461,
+				"curr": 0
+			},
+			{
+				"hour": 15.0,
+				"hist": 8582,
+				"curr": 0
+			},
+			{
+				"hour": 16.0,
+				"hist": 8010,
+				"curr": 0
+			},
+			{
+				"hour": 17.0,
+				"hist": 8060,
+				"curr": 0
+			},
+			{
+				"hour": 18.0,
+				"hist": 8824,
+				"curr": 0
+			},
+			{
+				"hour": 19.0,
+				"hist": 9575,
+				"curr": 0
+			},
+			{
+				"hour": 20.0,
+				"hist": 9899,
+				"curr": 0
+			},
+			{
+				"hour": 21.0,
+				"hist": 9298,
+				"curr": 0
+			},
+			{
+				"hour": 22.0,
+				"hist": 7700,
+				"curr": 0
+			},
+			{
+				"hour": 23.0,
+				"hist": 6706,
+				"curr": 0
+			}
+		]
+	}
+}

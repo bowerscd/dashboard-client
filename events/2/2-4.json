@@ -1,0 +1,81 @@
+{
+	"cls": 2,
+	"target_id": 193196099,
+	"data": {
+		"casters": [],
+		"chat": [],
+		"countdown": 1669783021,
+		"diplomacy": "1v1",
+		"drafts": [],
+		"game_type": "RM",
+		"id": 193196099,
+		"link": "aoe2de:\/\/1\/193196099",
+		"map": "Arabia",
+		"paused": false,
+		"players": [
+			{
+				"age": "Feudal",
+				"civilization": "Mayans",
+				"color_hex": "#ea69e1",
+				"color_id": 5,
+				"composition": [
+					"Militia"
+				],
+				"country_code": "us",
+				"id": 235623,
+				"mirror": false,
+				"mmr_rm_1v1": 1937,
+				"mmr_rm_tg": 1475,
+				"name": "Spring",
+				"number": 1,
+				"openings": [],
+				"random": false,
+				"random_team": false,
+				"rank_rm_1v1": 1338,
+				"team": 1,
+				"team_number": 1,
+				"verified": true,
+				"warning": false
+			},
+			{
+				"age": "Feudal",
+				"civilization": "Malay",
+				"color_hex": "#6599d8",
+				"color_id": 0,
+				"composition": [
+					"Militia"
+				],
+				"country_code": "gr",
+				"id": 258970,
+				"mirror": false,
+				"mmr_rm_1v1": 1576,
+				"mmr_rm_tg": 1378,
+				"name": "The_Lifetamer",
+				"number": 2,
+				"openings": [],
+				"random": false,
+				"random_team": false,
+				"rank_rm_1v1": 2245,
+				"team": 0,
+				"team_number": 2,
+				"verified": false,
+				"warning": false
+			}
+		],
+		"rematch": false,
+		"server": "ukwest",
+		"specs_allowed": true,
+		"start_timestamp": 1669782901,
+		"team_names": {},
+		"team_size": "1v1",
+		"teams": [
+			[
+				258970
+			],
+			[
+				235623
+			]
+		],
+		"validation_errors": []
+	}
+}

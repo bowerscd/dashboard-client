@@ -1,0 +1,232 @@
+{
+	"cls": 2,
+	"target_id": 193196398,
+	"data": {
+		"casters": [
+			{
+				"country_code": "mx",
+				"id": 2776293,
+				"name": "KingstoNe",
+				"stream_link": "https:\/\/www.twitch.tv\/kingstone_aoe",
+				"stream_title": "Noche de Ranks :) - !coaching",
+				"stream_viewers": 130,
+				"verified": true
+			}
+		],
+		"chat": [],
+		"countdown": 1669783245,
+		"diplomacy": "1v1",
+		"drafts": [],
+		"game_type": "RM",
+		"id": 193196398,
+		"link": "aoe2de:\/\/1\/193196398",
+		"map": "Arabia",
+		"paused": false,
+		"players": [
+			{
+				"age": "Feudal",
+				"civilization": "Portuguese",
+				"color_hex": "#ffd700",
+				"color_id": 3,
+				"composition": [
+					"Man-at-Arms",
+					"Archer"
+				],
+				"country_code": "mx",
+				"id": 274227,
+				"mirror": false,
+				"mmr_rm_1v1": 2102,
+				"mmr_rm_tg": 1726,
+				"name": "SuN | MostMilk",
+				"number": 1,
+				"openings": [],
+				"random": false,
+				"random_team": false,
+				"rank_rm_1v1": 204,
+				"team": 1,
+				"team_number": 1,
+				"verified": false,
+				"warning": false
+			},
+			{
+				"age": "Feudal",
+				"civilization": "Cumans",
+				"color_hex": "#6599d8",
+				"color_id": 0,
+				"composition": [
+					"Archer",
+					"Skirmisher"
+				],
+				"country_code": "mx",
+				"id": 2776293,
+				"mirror": false,
+				"mmr_rm_1v1": 2337,
+				"mmr_rm_tg": 1894,
+				"name": "KingstoNe",
+				"number": 2,
+				"openings": [],
+				"random": false,
+				"random_team": false,
+				"rank_rm_1v1": 61,
+				"stream_link": "https:\/\/www.twitch.tv\/kingstone_aoe",
+				"team": 0,
+				"team_number": 2,
+				"verified": true,
+				"warning": false
+			}
+		],
+		"rematch": false,
+		"server": "eastus",
+		"specs_allowed": true,
+		"start_timestamp": 1669783126,
+		"stats": {
+			"teams": [
+				"Team 2",
+				"Team 1"
+			],
+			"team_stats": {
+				"vs": [
+					0,
+					100
+				],
+				"map": [
+					36,
+					61
+				],
+				"duration": [
+					2333.0,
+					2041.666667
+				],
+				"activity": [
+					1.8,
+					4.7
+				],
+				"eapm": [
+					59.0,
+					70.0
+				],
+				"rate": [
+					2102,
+					2337
+				],
+				"elo": [
+					33,
+					67
+				],
+				"civ": [
+					53,
+					47
+				],
+				"match_count": [
+					6355,
+					8100
+				],
+				"age": [
+					0,
+					0
+				],
+				"map_ladder": [
+					701,
+					52
+				],
+				"score": [
+					208,
+					389
+				],
+				"favored": [
+					false,
+					true
+				],
+				"favor": [
+					34.84,
+					65.16
+				],
+				"odds": [
+					0.5347043701799485,
+					1.8701923076923077
+				]
+			},
+			"players": [
+				{
+					"civilization": "Portuguese",
+					"team_id": 0,
+					"player": {
+						"id": 274227,
+						"verified": false,
+						"warning": null,
+						"country_code": null,
+						"name": "SuN | MostMilk"
+					}
+				},
+				{
+					"civilization": "Cumans",
+					"team_id": 1,
+					"player": {
+						"id": 2776293,
+						"verified": true,
+						"warning": false,
+						"country_code": "mx",
+						"name": "KingstoNe"
+					}
+				}
+			],
+			"player_stats": {
+				"vs": [
+					0,
+					100
+				],
+				"map": [
+					36,
+					61
+				],
+				"duration": [
+					2333.0,
+					2041.666667
+				],
+				"eapm": [
+					59,
+					70
+				],
+				"activity": [
+					1.8,
+					4.7
+				],
+				"rate": [
+					2102,
+					2337
+				],
+				"elo": [
+					33,
+					67
+				],
+				"civ": [
+					53,
+					47
+				],
+				"match_count": [
+					6355,
+					8100
+				],
+				"age": [
+					null,
+					null
+				],
+				"map_ladder": [
+					701,
+					52
+				]
+			}
+		},
+		"team_names": {},
+		"team_size": "1v1",
+		"teams": [
+			[
+				2776293
+			],
+			[
+				274227
+			]
+		],
+		"validation_errors": []
+	}
+}

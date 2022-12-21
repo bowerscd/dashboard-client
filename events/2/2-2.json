@@ -1,0 +1,96 @@
+{
+	"cls": 2,
+	"target_id": 193195418,
+	"data": {
+		"casters": [
+			{
+				"country_code": "mx",
+				"id": 2920057,
+				"name": "Lobo",
+				"stream_link": "https:\/\/www.twitch.tv\/lobodelanieve",
+				"stream_title": "Weednas Noches \ud83d\udd25\ud83d\udd25 !discord !donaciones",
+				"stream_viewers": 41,
+				"verified": true
+			}
+		],
+		"chat": [],
+		"countdown": 1669782547,
+		"diplomacy": "1v1",
+		"drafts": [],
+		"game_type": "RM",
+		"id": 193195418,
+		"link": "aoe2de:\/\/1\/193195418",
+		"map": "Arabia",
+		"paused": false,
+		"players": [
+			{
+				"age": "Castle",
+				"civilization": "Franks",
+				"color_hex": "#00ee00",
+				"color_id": 2,
+				"composition": [
+					"Archer",
+					"Skirmisher",
+					"Knight"
+				],
+				"country_code": "do",
+				"id": 1516024,
+				"mirror": false,
+				"mmr_rm_1v1": 2025,
+				"mmr_rm_tg": 1582,
+				"name": "Kik0_",
+				"number": 2,
+				"openings": [],
+				"random": false,
+				"random_team": false,
+				"rank_rm_1v1": 279,
+				"team": 0,
+				"team_number": 2,
+				"verified": false,
+				"warning": false
+			},
+			{
+				"age": "Castle",
+				"civilization": "Celts",
+				"color_hex": "#ea69e1",
+				"color_id": 5,
+				"composition": [
+					"Spearman",
+					"Man-at-Arms",
+					"Archer"
+				],
+				"country_code": "mx",
+				"id": 2920057,
+				"mirror": false,
+				"mmr_rm_1v1": 2291,
+				"mmr_rm_tg": 1887,
+				"name": "Lobo",
+				"number": 1,
+				"openings": [],
+				"random": false,
+				"random_team": false,
+				"rank_rm_1v1": 80,
+				"stream_link": "https:\/\/www.twitch.tv\/lobodelanieve",
+				"team": 1,
+				"team_number": 1,
+				"verified": true,
+				"warning": false
+			}
+		],
+		"rematch": false,
+		"server": "eastus",
+		"specs_allowed": true,
+		"start_timestamp": 1669782427,
+		"team_names": {},
+		"team_size": "1v1",
+		"teams": [
+			[
+				1516024
+			],
+			[
+				2920057
+			]
+		],
+		"validation_errors": []
+	}
+}

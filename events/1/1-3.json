@@ -1,0 +1,32 @@
+{
+	"cls": 1,
+	"target_id": 219739,
+	"data": {
+		"country_code": "ar",
+		"id": 219739,
+		"last_match": 1669781828,
+		"match_count": 7480,
+		"match_diplomacy": "1v1",
+		"match_map": "Arabia",
+		"match_vs": "biscuit",
+		"mmr_rm_1v1": 2096,
+		"name": "Pela",
+		"on_dashboard": false,
+		"online": true,
+		"playing": false,
+		"rank_rm_1v1": 211,
+		"rank_tournament": 75,
+		"spectate_link": "aoe2de:\/\/0\/193196837",
+		"status": "matched",
+		"streaming": false,
+		"team": "DarkSidE",
+		"verified": true,
+		"warning": false,
+		"watching": [
+			{
+				"url": "https:\/\/twitch.tv\/kingstone_aoe",
+				"name": "KingstoNe"
+			}
+		]
+	}
+}

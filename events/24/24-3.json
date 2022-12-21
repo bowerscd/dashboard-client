@@ -1,0 +1,621 @@
+{
+	"cls": 24,
+	"target_id": null,
+	"data": {
+		"names": [
+			"RM 1v1",
+			"ATP",
+			"Tournament Elo",
+			"Arabia-Only",
+			"Arena-Only"
+		],
+		"ranks": {
+			"label": "RM 1v1",
+			"total": "Matches",
+			"rating": "Elo",
+			"description": "RM 1v1 Ladder with no duplicate accounts.",
+			"rows": [
+				{
+					"rank": 1,
+					"rating": 2755,
+					"total": 3548,
+					"player": {
+						"id": 199325,
+						"name": "Hera",
+						"verified": true,
+						"warning": false,
+						"country_code": "ca"
+					}
+				},
+				{
+					"rank": 2,
+					"rating": 2672,
+					"total": 2634,
+					"player": {
+						"id": 666976,
+						"name": "Barles",
+						"verified": true,
+						"warning": false,
+						"country_code": "pl"
+					}
+				},
+				{
+					"rank": 3,
+					"rating": 2659,
+					"total": 1927,
+					"player": {
+						"id": 208393,
+						"name": "Nicov",
+						"verified": true,
+						"warning": false,
+						"country_code": "ar"
+					}
+				},
+				{
+					"rank": 4,
+					"rating": 2646,
+					"total": 1622,
+					"player": {
+						"id": 212721,
+						"name": "Sitaux",
+						"verified": true,
+						"warning": false,
+						"country_code": "fr"
+					}
+				},
+				{
+					"rank": 5,
+					"rating": 2637,
+					"total": 1900,
+					"player": {
+						"id": 197964,
+						"name": "Yo",
+						"verified": true,
+						"warning": false,
+						"country_code": "cn"
+					}
+				},
+				{
+					"rank": 6,
+					"rating": 2636,
+					"total": 1473,
+					"player": {
+						"id": 196240,
+						"name": "TheViper",
+						"verified": true,
+						"warning": false,
+						"country_code": "no"
+					}
+				},
+				{
+					"rank": 7,
+					"rating": 2624,
+					"total": 2657,
+					"player": {
+						"id": 208611,
+						"name": "Villese",
+						"verified": true,
+						"warning": false,
+						"country_code": "fi"
+					}
+				},
+				{
+					"rank": 8,
+					"rating": 2596,
+					"total": 3061,
+					"player": {
+						"id": 199170,
+						"name": "dogao",
+						"verified": true,
+						"warning": false,
+						"country_code": "br"
+					}
+				},
+				{
+					"rank": 9,
+					"rating": 2559,
+					"total": 1934,
+					"player": {
+						"id": 254415,
+						"name": "Modri",
+						"verified": true,
+						"warning": false,
+						"country_code": "si"
+					}
+				},
+				{
+					"rank": 10,
+					"rating": 2544,
+					"total": 2805,
+					"player": {
+						"id": 2733015,
+						"name": "SongSong",
+						"verified": true,
+						"warning": false,
+						"country_code": "vn"
+					}
+				},
+				{
+					"rank": 11,
+					"rating": 2535,
+					"total": 3588,
+					"player": {
+						"id": 215442,
+						"name": "Vivi",
+						"verified": true,
+						"warning": false,
+						"country_code": "cn"
+					}
+				},
+				{
+					"rank": 12,
+					"rating": 2534,
+					"total": 980,
+					"player": {
+						"id": 506898,
+						"name": "Liereyy",
+						"verified": true,
+						"warning": false,
+						"country_code": "at"
+					}
+				},
+				{
+					"rank": 13,
+					"rating": 2533,
+					"total": 1716,
+					"player": {
+						"id": 271202,
+						"name": "Vinch",
+						"verified": true,
+						"warning": false,
+						"country_code": "ru"
+					}
+				},
+				{
+					"rank": 14,
+					"rating": 2530,
+					"total": 4439,
+					"player": {
+						"id": 256338,
+						"name": "Running",
+						"verified": true,
+						"warning": false,
+						"country_code": "de"
+					}
+				},
+				{
+					"rank": 15,
+					"rating": 2528,
+					"total": 3489,
+					"player": {
+						"id": 347269,
+						"name": "ACCM",
+						"verified": true,
+						"warning": false,
+						"country_code": "vn"
+					}
+				},
+				{
+					"rank": 16,
+					"rating": 2511,
+					"total": 1888,
+					"player": {
+						"id": 628503,
+						"name": "Valas",
+						"verified": true,
+						"warning": false,
+						"country_code": "fi"
+					}
+				},
+				{
+					"rank": 17,
+					"rating": 2504,
+					"total": 4994,
+					"player": {
+						"id": 251265,
+						"name": "MbL",
+						"verified": true,
+						"warning": false,
+						"country_code": "no"
+					}
+				},
+				{
+					"rank": 18,
+					"rating": 2491,
+					"total": 1945,
+					"player": {
+						"id": 1754629,
+						"name": "classicpro",
+						"verified": true,
+						"warning": false,
+						"country_code": "ua"
+					}
+				},
+				{
+					"rank": 19,
+					"rating": 2488,
+					"total": 1586,
+					"player": {
+						"id": 2858362,
+						"name": "JorDan",
+						"verified": true,
+						"warning": false,
+						"country_code": "de"
+					}
+				},
+				{
+					"rank": 20,
+					"rating": 2476,
+					"total": 1797,
+					"player": {
+						"id": 226575,
+						"name": "Lyx",
+						"verified": true,
+						"warning": false,
+						"country_code": "cn"
+					}
+				},
+				{
+					"rank": 21,
+					"rating": 2470,
+					"total": 1619,
+					"player": {
+						"id": 232410,
+						"name": "LaaaaaN",
+						"verified": true,
+						"warning": false,
+						"country_code": "es"
+					}
+				},
+				{
+					"rank": 22,
+					"rating": 2451,
+					"total": 3101,
+					"player": {
+						"id": 579679,
+						"name": "Margougou",
+						"verified": true,
+						"warning": false,
+						"country_code": "fr"
+					}
+				},
+				{
+					"rank": 23,
+					"rating": 2447,
+					"total": 3746,
+					"player": {
+						"id": 213305,
+						"name": "Belgium",
+						"verified": true,
+						"warning": false,
+						"country_code": "be"
+					}
+				},
+				{
+					"rank": 24,
+					"rating": 2439,
+					"total": 1821,
+					"player": {
+						"id": 716717,
+						"name": "StrayDog",
+						"verified": true,
+						"warning": false,
+						"country_code": "cn"
+					}
+				},
+				{
+					"rank": 25,
+					"rating": 2437,
+					"total": 3494,
+					"player": {
+						"id": 614315,
+						"name": "slam",
+						"verified": true,
+						"warning": false,
+						"country_code": "ca"
+					}
+				},
+				{
+					"rank": 26,
+					"rating": 2433,
+					"total": 2204,
+					"player": {
+						"id": 265517,
+						"name": "Daniel",
+						"verified": true,
+						"warning": false,
+						"country_code": "us"
+					}
+				},
+				{
+					"rank": 27,
+					"rating": 2433,
+					"total": 2227,
+					"player": {
+						"id": 2090225,
+						"name": "miguel",
+						"verified": true,
+						"warning": false,
+						"country_code": "br"
+					}
+				},
+				{
+					"rank": 28,
+					"rating": 2427,
+					"total": 3388,
+					"player": {
+						"id": 2783660,
+						"name": "Sebastian2002",
+						"verified": true,
+						"warning": false,
+						"country_code": "uy"
+					}
+				},
+				{
+					"rank": 29,
+					"rating": 2415,
+					"total": 1813,
+					"player": {
+						"id": 582058,
+						"name": "Hearttt",
+						"verified": true,
+						"warning": false,
+						"country_code": "pe"
+					}
+				},
+				{
+					"rank": 30,
+					"rating": 2410,
+					"total": 1987,
+					"player": {
+						"id": 198035,
+						"name": "DauT",
+						"verified": true,
+						"warning": false,
+						"country_code": "rs"
+					}
+				},
+				{
+					"rank": 31,
+					"rating": 2406,
+					"total": 1391,
+					"player": {
+						"id": 3230529,
+						"name": "Chris",
+						"verified": true,
+						"warning": false,
+						"country_code": "ca"
+					}
+				},
+				{
+					"rank": 32,
+					"rating": 2406,
+					"total": 3274,
+					"player": {
+						"id": 409748,
+						"name": "Capoch",
+						"verified": true,
+						"warning": false,
+						"country_code": "ar"
+					}
+				},
+				{
+					"rank": 33,
+					"rating": 2405,
+					"total": 1548,
+					"player": {
+						"id": 2621722,
+						"name": "Twigg",
+						"verified": true,
+						"warning": false,
+						"country_code": "ar"
+					}
+				},
+				{
+					"rank": 34,
+					"rating": 2404,
+					"total": 1938,
+					"player": {
+						"id": 290617,
+						"name": "Sobek",
+						"verified": true,
+						"warning": false,
+						"country_code": "cl"
+					}
+				},
+				{
+					"rank": 35,
+					"rating": 2401,
+					"total": 1264,
+					"player": {
+						"id": 2503651,
+						"name": "Badboy",
+						"verified": true,
+						"warning": false,
+						"country_code": "vn"
+					}
+				},
+				{
+					"rank": 36,
+					"rating": 2400,
+					"total": 1963,
+					"player": {
+						"id": 264353,
+						"name": "Somero",
+						"verified": true,
+						"warning": false,
+						"country_code": "cz"
+					}
+				},
+				{
+					"rank": 37,
+					"rating": 2400,
+					"total": 2064,
+					"player": {
+						"id": 211351,
+						"name": "Bad Koala",
+						"verified": true,
+						"warning": false,
+						"country_code": "cn"
+					}
+				},
+				{
+					"rank": 38,
+					"rating": 2395,
+					"total": 1678,
+					"player": {
+						"id": 2821727,
+						"name": "Fish",
+						"verified": true,
+						"warning": false,
+						"country_code": "vn"
+					}
+				},
+				{
+					"rank": 39,
+					"rating": 2390,
+					"total": 3670,
+					"player": {
+						"id": 726223,
+						"name": "z40305125",
+						"verified": true,
+						"warning": false,
+						"country_code": "tw"
+					}
+				},
+				{
+					"rank": 40,
+					"rating": 2387,
+					"total": 2904,
+					"player": {
+						"id": 196310,
+						"name": "F1Re",
+						"verified": true,
+						"warning": false,
+						"country_code": "br"
+					}
+				},
+				{
+					"rank": 41,
+					"rating": 2381,
+					"total": 6900,
+					"player": {
+						"id": 357795,
+						"name": "DracKeN",
+						"verified": true,
+						"warning": false,
+						"country_code": "cz"
+					}
+				},
+				{
+					"rank": 42,
+					"rating": 2373,
+					"total": 3011,
+					"player": {
+						"id": 288714,
+						"name": "Mihai",
+						"verified": true,
+						"warning": false,
+						"country_code": "ro"
+					}
+				},
+				{
+					"rank": 43,
+					"rating": 2357,
+					"total": 2117,
+					"player": {
+						"id": 1966276,
+						"name": "Ming",
+						"verified": true,
+						"warning": false,
+						"country_code": "hk"
+					}
+				},
+				{
+					"rank": 44,
+					"rating": 2357,
+					"total": 3966,
+					"player": {
+						"id": 2309468,
+						"name": "Whocl",
+						"verified": true,
+						"warning": false,
+						"country_code": "cl"
+					}
+				},
+				{
+					"rank": 45,
+					"rating": 2355,
+					"total": 1630,
+					"player": {
+						"id": 534438,
+						"name": "Tim",
+						"verified": true,
+						"warning": false,
+						"country_code": "cn"
+					}
+				},
+				{
+					"rank": 46,
+					"rating": 2351,
+					"total": 2099,
+					"player": {
+						"id": 197751,
+						"name": "Nili",
+						"verified": true,
+						"warning": false,
+						"country_code": "de"
+					}
+				},
+				{
+					"rank": 47,
+					"rating": 2348,
+					"total": 5156,
+					"player": {
+						"id": 458029,
+						"name": "Darknoob",
+						"verified": true,
+						"warning": false,
+						"country_code": "nl"
+					}
+				},
+				{
+					"rank": 48,
+					"rating": 2347,
+					"total": 2623,
+					"player": {
+						"id": 182749,
+						"name": "Dragonstar",
+						"verified": true,
+						"warning": false,
+						"country_code": "in"
+					}
+				},
+				{
+					"rank": 49,
+					"rating": 2344,
+					"total": 3185,
+					"player": {
+						"id": 2776293,
+						"name": "KingstoNe",
+						"verified": true,
+						"warning": false,
+						"country_code": "mx"
+					}
+				},
+				{
+					"rank": 50,
+					"rating": 2339,
+					"total": 4815,
+					"player": {
+						"id": 229071,
+						"name": "Uzzi",
+						"verified": true,
+						"warning": false,
+						"country_code": "mx"
+					}
+				}
+			]
+		}
+	}
+}

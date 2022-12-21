@@ -1,0 +1,56 @@
+{
+	"cls": 3,
+	"target_id": null,
+	"data": [
+		{
+			"cls": 1,
+			"target_id": 2816137,
+			"data": {
+				"id": 2816137,
+				"last_match": 1669742081,
+				"match_count": 5241,
+				"mmr_rm_1v1": 1623,
+				"name": "Rocola",
+				"on_dashboard": true,
+				"online": true,
+				"playing": false,
+				"rank_rm_1v1": 1789,
+				"stream_link": "https:\/\/www.twitch.tv\/rocola91",
+				"stream_title": "Thunder tournament happening right now! Sign up! Quick! | New PC arrived!",
+				"stream_viewers": 58,
+				"streaming": true,
+				"verified": false,
+				"warning": false,
+				"watching": []
+			}
+		},
+		{
+			"cls": 1,
+			"target_id": 213474,
+			"data": {
+				"country_code": "us",
+				"id": 213474,
+				"last_match": 1669782286,
+				"match_count": 3898,
+				"match_diplomacy": "TG",
+				"match_id": 193195672,
+				"match_map": "Arena",
+				"mmr_rm_1v1": 1833,
+				"name": "RAY",
+				"on_dashboard": true,
+				"online": true,
+				"playing": true,
+				"rank_rm_1v1": 655,
+				"spectate_link": "aoe2de:\/\/1\/193195672",
+				"status": "playing",
+				"stream_link": "https:\/\/www.twitch.tv\/rayaoe",
+				"stream_title": "New Map Pool TGs",
+				"stream_viewers": 28,
+				"streaming": true,
+				"verified": true,
+				"warning": false,
+				"watching": []
+			}
+		}
+	]
+}

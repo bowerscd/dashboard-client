@@ -1,0 +1,40 @@
+{
+    "cls": 12,
+    "target_id": null,
+    "data": [
+        {
+            "subject": {
+                "type": "player",
+                "data": {
+                    "id": 254415,
+                    "verified": true,
+                    "warning": false,
+                    "country_code": "si",
+                    "name": "Modri"
+                }
+            },
+            "text": "is on a 5 match winning streak",
+            "timestamp": 1669781471,
+            "url": null,
+            "type": "ladder-up",
+            "priority": 1
+        },
+        {
+            "subject": {
+                "type": "player",
+                "data": {
+                    "id": 208393,
+                    "verified": true,
+                    "warning": false,
+                    "country_code": "ar",
+                    "name": "Nicov"
+                }
+            },
+            "text": "is on a 5 match winning streak",
+            "timestamp": 1669776915,
+            "url": null,
+            "type": "ladder-up",
+            "priority": 1
+        }
+    ]
+}

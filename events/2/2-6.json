@@ -1,0 +1,272 @@
+{
+	"cls": 2,
+	"target_id": 193199170,
+	"data": {
+		"casters": [],
+		"chat": [
+			{
+				"player_id": 1,
+				"targets": [
+					1,
+					1,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0
+				],
+				"message": "sec"
+			},
+			{
+				"player_id": 2,
+				"targets": [
+					1,
+					1,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0
+				],
+				"message": "1"
+			},
+			{
+				"player_id": 1,
+				"targets": [
+					1,
+					1,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0
+				],
+				"message": "sorry go?"
+			},
+			{
+				"player_id": 2,
+				"targets": [
+					1,
+					1,
+					0,
+					0,
+					0,
+					0,
+					0,
+					0
+				],
+				"message": "1"
+			}
+		],
+		"countdown": 1669785209,
+		"diplomacy": "1v1",
+		"drafts": [],
+		"game_type": "RM",
+		"id": 193199170,
+		"link": "aoe2de:\/\/1\/193199170",
+		"map": "Arabia",
+		"paused": true,
+		"players": [
+			{
+				"age": "Dark",
+				"civilization": "Hindustanis",
+				"color_hex": "#f25f5f",
+				"color_id": 1,
+				"composition": [],
+				"country_code": "do",
+				"id": 1516024,
+				"mirror": false,
+				"mmr_rm_1v1": 2051,
+				"mmr_rm_tg": 1582,
+				"name": "Kik0_",
+				"number": 1,
+				"openings": [],
+				"random": false,
+				"random_team": false,
+				"rank_rm_1v1": 247,
+				"team": 1,
+				"team_number": 1,
+				"verified": false,
+				"warning": false
+			},
+			{
+				"age": "Dark",
+				"civilization": "Hindustanis",
+				"color_hex": "#6599d8",
+				"color_id": 0,
+				"composition": [],
+				"country_code": "cl",
+				"id": 2677445,
+				"mirror": false,
+				"mmr_rm_1v1": 2242,
+				"mmr_rm_tg": 1698,
+				"name": "\u180c \u180c \u180c \u180c \u180c",
+				"number": 2,
+				"openings": [],
+				"random": false,
+				"random_team": false,
+				"rank_rm_1v1": 106,
+				"team": 0,
+				"team_number": 2,
+				"verified": false,
+				"warning": false
+			}
+		],
+		"rematch": false,
+		"server": "brazilsouth",
+		"specs_allowed": true,
+		"start_timestamp": 1669785089,
+		"stats": {
+			"teams": [
+				"Team 2",
+				"Team 1"
+			],
+			"team_stats": {
+				"vs": [
+					0,
+					0
+				],
+				"map": [
+					31,
+					51
+				],
+				"duration": [
+					2492.0,
+					2308.0
+				],
+				"activity": [
+					0.1,
+					0.9
+				],
+				"eapm": [
+					70.0,
+					66.0
+				],
+				"rate": [
+					2051,
+					2242
+				],
+				"elo": [
+					39,
+					61
+				],
+				"civ": [
+					50,
+					50
+				],
+				"match_count": [
+					5785,
+					1742
+				],
+				"age": [
+					0,
+					0
+				],
+				"map_ladder": [
+					766,
+					69
+				],
+				"score": [
+					209,
+					273
+				],
+				"favored": [
+					false,
+					true
+				],
+				"favor": [
+					43.36,
+					56.64
+				],
+				"odds": [
+					0.7655677655677656,
+					1.3062200956937797
+				]
+			},
+			"players": [
+				{
+					"civilization": "Hindustanis",
+					"team_id": 0,
+					"player": {
+						"id": 1516024,
+						"verified": false,
+						"warning": null,
+						"country_code": null,
+						"name": "Kik0_"
+					}
+				},
+				{
+					"civilization": "Hindustanis",
+					"team_id": 1,
+					"player": {
+						"id": 2677445,
+						"verified": false,
+						"warning": null,
+						"country_code": null,
+						"name": "\u180c \u180c \u180c \u180c \u180c"
+					}
+				}
+			],
+			"player_stats": {
+				"vs": [
+					null,
+					null
+				],
+				"map": [
+					31,
+					51
+				],
+				"duration": [
+					2492.0,
+					2308.0
+				],
+				"eapm": [
+					70,
+					66
+				],
+				"activity": [
+					0.1,
+					0.9
+				],
+				"rate": [
+					2051,
+					2242
+				],
+				"elo": [
+					39,
+					61
+				],
+				"civ": [
+					50,
+					50
+				],
+				"match_count": [
+					5785,
+					1742
+				],
+				"age": [
+					null,
+					null
+				],
+				"map_ladder": [
+					766,
+					69
+				]
+			}
+		},
+		"team_names": {},
+		"team_size": "1v1",
+		"teams": [
+			[
+				2677445
+			],
+			[
+				1516024
+			]
+		],
+		"validation_errors": []
+	}
+}

@@ -1,0 +1,1216 @@
+{
+    "cls": 11,
+    "target_id": null,
+    "data": {
+        "tournaments": [
+            {
+                "id": "warlords",
+                "name": "Warlords",
+                "upcoming": false,
+                "live": false,
+                "tier": "S"
+            },
+            {
+                "id": "double-cup-3",
+                "name": "Double Cup 3",
+                "upcoming": true,
+                "live": false,
+                "tier": "B"
+            },
+            {
+                "id": "nomad-wars-3",
+                "name": "Nomad Wars 3",
+                "upcoming": false,
+                "live": false,
+                "tier": "B"
+            },
+            {
+                "id": "showmatches",
+                "name": "Showmatches",
+                "upcoming": false,
+                "live": false,
+                "tier": null
+            }
+        ],
+        "name": "Warlords",
+        "url": "https:\/\/liquipedia.net\/ageofempires\/Warlords\/1",
+        "type": "tournament",
+        "tier": "S",
+        "rounds": {
+            "Group A": {
+                "warlords-group-a-03-accm-vs-villese": {
+                    "participants": [
+                        {
+                            "score": 0,
+                            "player": {
+                                "id": 347269,
+                                "name": "ACCM",
+                                "verified": true,
+                                "warning": false,
+                                "country_code": "vn"
+                            }
+                        },
+                        {
+                            "score": 3,
+                            "player": {
+                                "id": 208611,
+                                "name": "Villese",
+                                "verified": true,
+                                "warning": false,
+                                "country_code": "fi"
+                            }
+                        }
+                    ],
+                    "started": true,
+                    "finished": true,
+                    "bestof": 5,
+                    "url": null,
+                    "drafts": [
+                        {
+                            "preset": "Warlords, Best of Five, Civilisation Draft",
+                            "url": "https:\/\/aoe2cm.net\/draft\/BvDlR",
+                            "type": "civ"
+                        },
+                        {
+                            "preset": "Warlords, Best of Five, Map Draft",
+                            "url": "https:\/\/aoe2cm.net\/draft\/hvqbk",
+                            "type": "map"
+                        }
+                    ],
+                    "missing": 0,
+                    "recs": true,
+                    "live": false
+                },
+                "warlords-group-a-01-classicpro-vs-theviper": {
+                    "participants": [
+                        {
+                            "score": 3,
+                            "player": {
+                                "id": 196240,
+                                "name": "TheViper",
+                                "verified": true,
+                                "warning": false,
+                                "country_code": "no"
+                            }
+                        },
+                        {
+                            "score": 0,
+                            "player": {
+                                "id": 1754629,
+                                "name": "classicpro",
+                                "verified": true,
+                                "warning": false,
+                                "country_code": "ua"
+                            }
+                        }
+                    ],
+                    "started": true,
+                    "finished": true,
+                    "bestof": 5,
+                    "url": null,
+                    "drafts": [
+                        {
+                            "preset": "Warlords, Best of Five, Map Draft",
+                            "url": "https:\/\/aoe2cm.net\/draft\/yTVGP",
+                            "type": "map"
+                        },
+                        {
+                            "preset": "Warlords, Best of Five, Civilisation Draft",
+                            "url": "https:\/\/aoe2cm.net\/draft\/coeqR",
+                            "type": "civ"
+                        }
+                    ],
+                    "missing": 0,
+                    "recs": true,
+                    "live": false
+                },
+                "warlords-group-a-04-daut-vs-jordan-aoe": {
+                    "participants": [
+                        {
+                            "score": 3,
+                            "player": {
+                                "id": 198035,
+                                "name": "DauT",
+                                "verified": true,
+                                "warning": false,
+                                "country_code": "rs"
+                            }
+                        },
+                        {
+                            "score": 1,
+                            "player": {
+                                "id": 2858362,
+                                "name": "JorDan",
+                                "verified": true,
+                                "warning": false,
+                                "country_code": "de"
+                            }
+                        }
+                    ],
+                    "started": true,
+                    "finished": true,
+                    "bestof": 5,
+                    "url": null,
+                    "drafts": [
+                        {
+                            "preset": "Warlords, Best of Five, Map Draft",
+                            "url": "https:\/\/aoe2cm.net\/draft\/ghMLw",
+                            "type": "map"
+                        },
+                        {
+                            "preset": "Warlords, Best of Five, Civilisation Draft",
+                            "url": "https:\/\/aoe2cm.net\/draft\/EKbLc",
+                            "type": "civ"
+                        }
+                    ],
+                    "missing": 0,
+                    "recs": true,
+                    "live": false
+                },
+                "warlords-group-a-02-capoch-vs-liereyy": {
+                    "participants": [
+                        {
+                            "score": 0,
+                            "player": {
+                                "id": 409748,
+                                "name": "Capoch",
+                                "verified": true,
+                                "warning": false,
+                                "country_code": "ar"
+                            }
+                        },
+                        {
+                            "score": 3,
+                            "player": {
+                                "id": 506898,
+                                "name": "Liereyy",
+                                "verified": true,
+                                "warning": false,
+                                "country_code": "at"
+                            }
+                        }
+                    ],
+                    "started": true,
+                    "finished": true,
+                    "bestof": 5,
+                    "url": null,
+                    "drafts": [
+                        {
+                            "preset": "Warlords, Best of Five, Map Draft",
+                            "url": "https:\/\/aoe2cm.net\/draft\/LkOoE",
+                            "type": "map"
+                        },
+                        {
+                            "preset": "Warlords, Best of Five, Civilisation Draft",
+                            "url": "https:\/\/aoe2cm.net\/draft\/qVesb",
+                            "type": "civ"
+                        }
+                    ],
+                    "missing": 0,
+                    "recs": true,
+                    "live": false
+                },
+                "warlords-group-a-06-accm-vs-capoch": {
+                    "participants": [
+                        {
+                            "score": 3,
+                            "player": {
+                                "id": 347269,
+                                "name": "ACCM",
+                                "verified": true,
+                                "warning": false,
+                                "country_code": "vn"
+                            }
+                        },
+                        {
+                            "score": 1,
+                            "player": {
+                                "id": 409748,
+                                "name": "Capoch",
+                                "verified": true,
+                                "warning": false,
+                                "country_code": "ar"
+                            }
+                        }
+                    ],
+                    "started": true,
+                    "finished": true,
+                    "bestof": 5,
+                    "url": null,
+                    "drafts": [
+                        {
+                            "preset": "Warlords, Best of Five, Map Draft",
+                            "url": "https:\/\/aoe2cm.net\/draft\/ZgMOM",
+                            "type": "map"
+                        },
+                        {
+                            "preset": "Warlords, Best of Five, Civilisation Draft",
+                            "url": "https:\/\/aoe2cm.net\/draft\/GDFyw",
+                            "type": "civ"
+                        }
+                    ],
+                    "missing": 0,
+                    "recs": true,
+                    "live": false
+                },
+                "warlords-group-a-08-liereyy-vs-villese": {
+                    "participants": [
+                        {
+                            "score": 3,
+                            "player": {
+                                "id": 506898,
+                                "name": "Liereyy",
+                                "verified": true,
+                                "warning": false,
+                                "country_code": "at"
+                            }
+                        },
+                        {
+                            "score": 1,
+                            "player": {
+                                "id": 208611,
+                                "name": "Villese",
+                                "verified": true,
+                                "warning": false,
+                                "country_code": "fi"
+                            }
+                        }
+                    ],
+                    "started": true,
+                    "finished": true,
+                    "bestof": 5,
+                    "url": null,
+                    "drafts": [
+                        {
+                            "preset": "Warlords, Best of Five, Map Draft",
+                            "url": "https:\/\/aoe2cm.net\/draft\/GAHJf",
+                            "type": "map"
+                        },
+                        {
+                            "preset": "Warlords, Best of Five, Civilisation Draft",
+                            "url": "https:\/\/aoe2cm.net\/draft\/nrMit",
+                            "type": "civ"
+                        }
+                    ],
+                    "missing": 0,
+                    "recs": true,
+                    "live": false
+                },
+                "warlords-group-a-07-daut-vs-theviper": {
+                    "participants": [
+                        {
+                            "score": 1,
+                            "player": {
+                                "id": 198035,
+                                "name": "DauT",
+                                "verified": true,
+                                "warning": false,
+                                "country_code": "rs"
+                            }
+                        },
+                        {
+                            "score": 3,
+                            "player": {
+                                "id": 196240,
+                                "name": "TheViper",
+                                "verified": true,
+                                "warning": false,
+                                "country_code": "no"
+                            }
+                        }
+                    ],
+                    "started": true,
+                    "finished": true,
+                    "bestof": 5,
+                    "url": null,
+                    "drafts": [
+                        {
+                            "preset": "Warlords, Best of Five, Map Draft",
+                            "url": "https:\/\/aoe2cm.net\/draft\/Mrfdb",
+                            "type": "map"
+                        },
+                        {
+                            "preset": "Warlords, Best of Five, Civilisation Draft",
+                            "url": "https:\/\/aoe2cm.net\/draft\/BfBaq",
+                            "type": "civ"
+                        }
+                    ],
+                    "missing": 0,
+                    "recs": true,
+                    "live": false
+                },
+                "warlords-group-a-10-accm-vs-daut": {
+                    "participants": [
+                        {
+                            "score": 3,
+                            "player": {
+                                "id": 347269,
+                                "name": "ACCM",
+                                "verified": true,
+                                "warning": false,
+                                "country_code": "vn"
+                            }
+                        },
+                        {
+                            "score": 1,
+                            "player": {
+                                "id": 198035,
+                                "name": "DauT",
+                                "verified": true,
+                                "warning": false,
+                                "country_code": "rs"
+                            }
+                        }
+                    ],
+                    "started": true,
+                    "finished": true,
+                    "bestof": 5,
+                    "url": null,
+                    "drafts": [
+                        {
+                            "preset": "Warlords, Best of Five, Map Draft",
+                            "url": "https:\/\/aoe2cm.net\/draft\/PVsLO",
+                            "type": "map"
+                        },
+                        {
+                            "preset": "Warlords, Best of Five, Civilisation Draft",
+                            "url": "https:\/\/aoe2cm.net\/draft\/usOcp",
+                            "type": "civ"
+                        }
+                    ],
+                    "missing": 0,
+                    "recs": true,
+                    "live": false
+                },
+                "warlords-group-a-09-jordan-aoe-vs-villese": {
+                    "participants": [
+                        {
+                            "score": 1,
+                            "player": {
+                                "id": 2858362,
+                                "name": "JorDan",
+                                "verified": true,
+                                "warning": false,
+                                "country_code": "de"
+                            }
+                        },
+                        {
+                            "score": 3,
+                            "player": {
+                                "id": 208611,
+                                "name": "Villese",
+                                "verified": true,
+                                "warning": false,
+                                "country_code": "fi"
+                            }
+                        }
+                    ],
+                    "started": true,
+                    "finished": true,
+                    "bestof": 5,
+                    "url": null,
+                    "drafts": [
+                        {
+                            "preset": "Warlords, Best of Five, Map Draft",
+                            "url": "https:\/\/aoe2cm.net\/draft\/uWeQh",
+                            "type": "map"
+                        },
+                        {
+                            "preset": "Warlords, Best of Five, Civilisation Draft",
+                            "url": "https:\/\/aoe2cm.net\/draft\/xKcUr",
+                            "type": "civ"
+                        }
+                    ],
+                    "missing": 0,
+                    "recs": true,
+                    "live": false
+                }
+            },
+            "Group B": {
+                "warlords-group-b-01-miguel-vs-tatoh": {
+                    "participants": [
+                        {
+                            "score": 3,
+                            "player": {
+                                "id": 197388,
+                                "name": "TaToH",
+                                "verified": true,
+                                "warning": false,
+                                "country_code": "es"
+                            }
+                        },
+                        {
+                            "score": 1,
+                            "player": {
+                                "id": 2090225,
+                                "name": "miguel",
+                                "verified": true,
+                                "warning": false,
+                                "country_code": "br"
+                            }
+                        }
+                    ],
+                    "started": true,
+                    "finished": true,
+                    "bestof": 5,
+                    "url": null,
+                    "drafts": [
+                        {
+                            "preset": "Warlords, Best of Five, Map Draft",
+                            "url": "https:\/\/aoe2cm.net\/draft\/FqkVl",
+                            "type": "map"
+                        },
+                        {
+                            "preset": "Warlords, Best of Five, Civilisation Draft",
+                            "url": "https:\/\/aoe2cm.net\/draft\/gdebL",
+                            "type": "civ"
+                        }
+                    ],
+                    "missing": 0,
+                    "recs": true,
+                    "live": false
+                },
+                "warlords-group-b-02-valas-vs-vinchester": {
+                    "participants": [
+                        {
+                            "score": 2,
+                            "player": {
+                                "id": 628503,
+                                "name": "Valas",
+                                "verified": true,
+                                "warning": false,
+                                "country_code": "fi"
+                            }
+                        },
+                        {
+                            "score": 3,
+                            "player": {
+                                "id": 271202,
+                                "name": "Vinch",
+                                "verified": true,
+                                "warning": false,
+                                "country_code": "ru"
+                            }
+                        }
+                    ],
+                    "started": true,
+                    "finished": true,
+                    "bestof": 5,
+                    "url": null,
+                    "drafts": [
+                        {
+                            "preset": "Warlords, Best of Five, Map Draft",
+                            "url": "https:\/\/aoe2cm.net\/draft\/GzzvF",
+                            "type": "map"
+                        },
+                        {
+                            "preset": "Warlords, Best of Five, Civilisation Draft",
+                            "url": "https:\/\/aoe2cm.net\/draft\/GigbA",
+                            "type": "civ"
+                        }
+                    ],
+                    "missing": 0,
+                    "recs": true,
+                    "live": false
+                },
+                "warlords-group-b-04-hera-vs-mbl": {
+                    "participants": [
+                        {
+                            "score": 3,
+                            "player": {
+                                "id": 199325,
+                                "name": "Hera",
+                                "verified": true,
+                                "warning": false,
+                                "country_code": "ca"
+                            }
+                        },
+                        {
+                            "score": 1,
+                            "player": {
+                                "id": 251265,
+                                "name": "MbL",
+                                "verified": true,
+                                "warning": false,
+                                "country_code": "no"
+                            }
+                        }
+                    ],
+                    "started": true,
+                    "finished": true,
+                    "bestof": 5,
+                    "url": null,
+                    "drafts": [
+                        {
+                            "preset": "Warlords, Best of Five, Map Draft",
+                            "url": "https:\/\/aoe2cm.net\/draft\/lGlNW",
+                            "type": "map"
+                        },
+                        {
+                            "preset": "Warlords, Best of Five, Civilisation Draft",
+                            "url": "https:\/\/aoe2cm.net\/draft\/iBETt",
+                            "type": "civ"
+                        }
+                    ],
+                    "missing": 0,
+                    "recs": true,
+                    "live": false
+                },
+                "warlords-group-b-03-nicov-vs-yo": {
+                    "participants": [
+                        {
+                            "score": 3,
+                            "player": {
+                                "id": 208393,
+                                "name": "Nicov",
+                                "verified": true,
+                                "warning": false,
+                                "country_code": "ar"
+                            }
+                        },
+                        {
+                            "score": 2,
+                            "player": {
+                                "id": 197964,
+                                "name": "Yo",
+                                "verified": true,
+                                "warning": false,
+                                "country_code": "cn"
+                            }
+                        }
+                    ],
+                    "started": true,
+                    "finished": true,
+                    "bestof": 5,
+                    "url": null,
+                    "drafts": [
+                        {
+                            "preset": "Warlords, Best of Five, Map Draft",
+                            "url": "https:\/\/aoe2cm.net\/draft\/Cgqsb",
+                            "type": "map"
+                        },
+                        {
+                            "preset": "Warlords, Best of Five, Civilisation Draft",
+                            "url": "https:\/\/aoe2cm.net\/draft\/AksDf",
+                            "type": "civ"
+                        }
+                    ],
+                    "missing": 0,
+                    "recs": true,
+                    "live": false
+                },
+                "warlords-group-b-06-valas-vs-yo": {
+                    "participants": [
+                        {
+                            "score": 1,
+                            "player": {
+                                "id": 628503,
+                                "name": "Valas",
+                                "verified": true,
+                                "warning": false,
+                                "country_code": "fi"
+                            }
+                        },
+                        {
+                            "score": 3,
+                            "player": {
+                                "id": 197964,
+                                "name": "Yo",
+                                "verified": true,
+                                "warning": false,
+                                "country_code": "cn"
+                            }
+                        }
+                    ],
+                    "started": true,
+                    "finished": true,
+                    "bestof": 5,
+                    "url": null,
+                    "drafts": [
+                        {
+                            "preset": "Warlords, Best of Five, Map Draft",
+                            "url": "https:\/\/aoe2cm.net\/draft\/hGIeA",
+                            "type": "map"
+                        },
+                        {
+                            "preset": "Warlords, Best of Five, Civilisation Draft",
+                            "url": "https:\/\/aoe2cm.net\/draft\/tquIm",
+                            "type": "civ"
+                        }
+                    ],
+                    "missing": 0,
+                    "recs": true,
+                    "live": false
+                },
+                "warlords-group-b-05-mbl-vs-miguel": {
+                    "participants": [
+                        {
+                            "score": 3,
+                            "player": {
+                                "id": 251265,
+                                "name": "MbL",
+                                "verified": true,
+                                "warning": false,
+                                "country_code": "no"
+                            }
+                        },
+                        {
+                            "score": 1,
+                            "player": {
+                                "id": 2090225,
+                                "name": "miguel",
+                                "verified": true,
+                                "warning": false,
+                                "country_code": "br"
+                            }
+                        }
+                    ],
+                    "started": true,
+                    "finished": true,
+                    "bestof": 5,
+                    "url": null,
+                    "drafts": [
+                        {
+                            "preset": "Warlords, Best of Five, Civilisation Draft",
+                            "url": "https:\/\/aoe2cm.net\/draft\/eSeia",
+                            "type": "civ"
+                        },
+                        {
+                            "preset": "Warlords, Best of Five, Map Draft",
+                            "url": "https:\/\/aoe2cm.net\/draft\/Nzhez",
+                            "type": "map"
+                        }
+                    ],
+                    "missing": 0,
+                    "recs": true,
+                    "live": false
+                },
+                "warlords-group-b-08-nicov-vs-vinchester": {
+                    "participants": [
+                        {
+                            "score": 2,
+                            "player": {
+                                "id": 208393,
+                                "name": "Nicov",
+                                "verified": true,
+                                "warning": false,
+                                "country_code": "ar"
+                            }
+                        },
+                        {
+                            "score": 3,
+                            "player": {
+                                "id": 271202,
+                                "name": "Vinch",
+                                "verified": true,
+                                "warning": false,
+                                "country_code": "ru"
+                            }
+                        }
+                    ],
+                    "started": true,
+                    "finished": true,
+                    "bestof": 5,
+                    "url": null,
+                    "drafts": [
+                        {
+                            "preset": "Warlords, Best of Five, Map Draft",
+                            "url": "https:\/\/aoe2cm.net\/draft\/lHcPJ",
+                            "type": "map"
+                        },
+                        {
+                            "preset": "Warlords, Best of Five, Civilisation Draft",
+                            "url": "https:\/\/aoe2cm.net\/draft\/UCySp",
+                            "type": "civ"
+                        }
+                    ],
+                    "missing": 0,
+                    "recs": true,
+                    "live": false
+                },
+                "warlords-group-b-07-hera-vs-tatoh": {
+                    "participants": [
+                        {
+                            "score": 3,
+                            "player": {
+                                "id": 199325,
+                                "name": "Hera",
+                                "verified": true,
+                                "warning": false,
+                                "country_code": "ca"
+                            }
+                        },
+                        {
+                            "score": 1,
+                            "player": {
+                                "id": 197388,
+                                "name": "TaToH",
+                                "verified": true,
+                                "warning": false,
+                                "country_code": "es"
+                            }
+                        }
+                    ],
+                    "started": true,
+                    "finished": true,
+                    "bestof": 5,
+                    "url": null,
+                    "drafts": [
+                        {
+                            "preset": "Warlords, Best of Five, Map Draft",
+                            "url": "https:\/\/aoe2cm.net\/draft\/XCjBJ",
+                            "type": "map"
+                        },
+                        {
+                            "preset": "Warlords, Best of Five, Civilisation Draft",
+                            "url": "https:\/\/aoe2cm.net\/draft\/loLFp",
+                            "type": "civ"
+                        }
+                    ],
+                    "missing": 0,
+                    "recs": true,
+                    "live": false
+                },
+                "warlords-group-b-10-mbl-vs-nicov": {
+                    "participants": [
+                        {
+                            "score": 1,
+                            "player": {
+                                "id": 251265,
+                                "name": "MbL",
+                                "verified": true,
+                                "warning": false,
+                                "country_code": "no"
+                            }
+                        },
+                        {
+                            "score": 3,
+                            "player": {
+                                "id": 208393,
+                                "name": "Nicov",
+                                "verified": true,
+                                "warning": false,
+                                "country_code": "ar"
+                            }
+                        }
+                    ],
+                    "started": true,
+                    "finished": true,
+                    "bestof": 5,
+                    "url": null,
+                    "drafts": [
+                        {
+                            "preset": "Warlords, Best of Five, Civilisation Draft",
+                            "url": "https:\/\/aoe2cm.net\/draft\/jRbjx",
+                            "type": "civ"
+                        },
+                        {
+                            "preset": "Warlords, Best of Five, Map Draft",
+                            "url": "https:\/\/aoe2cm.net\/draft\/soQXH",
+                            "type": "map"
+                        }
+                    ],
+                    "missing": 0,
+                    "recs": true,
+                    "live": false
+                },
+                "warlords-group-b-09-tatoh-vs-yo": {
+                    "participants": [
+                        {
+                            "score": 1,
+                            "player": {
+                                "id": 197388,
+                                "name": "TaToH",
+                                "verified": true,
+                                "warning": false,
+                                "country_code": "es"
+                            }
+                        },
+                        {
+                            "score": 3,
+                            "player": {
+                                "id": 197964,
+                                "name": "Yo",
+                                "verified": true,
+                                "warning": false,
+                                "country_code": "cn"
+                            }
+                        }
+                    ],
+                    "started": true,
+                    "finished": true,
+                    "bestof": 5,
+                    "url": null,
+                    "drafts": [
+                        {
+                            "preset": "Warlords, Best of Five, Map Draft",
+                            "url": "https:\/\/aoe2cm.net\/draft\/QjFvY",
+                            "type": "map"
+                        },
+                        {
+                            "preset": "Warlords, Best of Five, Civilisation Draft",
+                            "url": "https:\/\/aoe2cm.net\/draft\/eJLXR",
+                            "type": "civ"
+                        }
+                    ],
+                    "missing": 0,
+                    "recs": true,
+                    "live": false
+                }
+            },
+            "Quarterfinals": {
+                "warlords-quarterfinals-accm-vs-hera": {
+                    "participants": [
+                        {
+                            "score": 3,
+                            "player": {
+                                "id": 347269,
+                                "name": "ACCM",
+                                "verified": true,
+                                "warning": false,
+                                "country_code": "vn"
+                            }
+                        },
+                        {
+                            "score": 4,
+                            "player": {
+                                "id": 199325,
+                                "name": "Hera",
+                                "verified": true,
+                                "warning": false,
+                                "country_code": "ca"
+                            }
+                        }
+                    ],
+                    "started": true,
+                    "finished": true,
+                    "bestof": 7,
+                    "url": null,
+                    "drafts": [
+                        {
+                            "preset": "Warlords, Best of Seven, Map Draft",
+                            "url": "https:\/\/aoe2cm.net\/draft\/CgeMz",
+                            "type": "map"
+                        },
+                        {
+                            "preset": "Warlords, Best of Seven, Civilisation Draft",
+                            "url": "https:\/\/aoe2cm.net\/draft\/XPnTL",
+                            "type": "civ"
+                        }
+                    ],
+                    "missing": 0,
+                    "recs": true,
+                    "live": false
+                },
+                "warlords-quarterfinals-villese-vs-vinchester": {
+                    "participants": [
+                        {
+                            "score": 1,
+                            "player": {
+                                "id": 208611,
+                                "name": "Villese",
+                                "verified": true,
+                                "warning": false,
+                                "country_code": "fi"
+                            }
+                        },
+                        {
+                            "score": 4,
+                            "player": {
+                                "id": 271202,
+                                "name": "Vinch",
+                                "verified": true,
+                                "warning": false,
+                                "country_code": "ru"
+                            }
+                        }
+                    ],
+                    "started": true,
+                    "finished": true,
+                    "bestof": 7,
+                    "url": null,
+                    "drafts": [
+                        {
+                            "preset": "Warlords, Best of Seven, Map Draft",
+                            "url": "https:\/\/aoe2cm.net\/draft\/Uwiwh",
+                            "type": "map"
+                        },
+                        {
+                            "preset": "Warlords, Best of Seven, Civilisation Draft",
+                            "url": "https:\/\/aoe2cm.net\/draft\/BmhgE",
+                            "type": "civ"
+                        }
+                    ],
+                    "missing": 0,
+                    "recs": true,
+                    "live": false
+                },
+                "warlords-quarterfinals-liereyy-vs-nicov": {
+                    "participants": [
+                        {
+                            "score": 4,
+                            "player": {
+                                "id": 506898,
+                                "name": "Liereyy",
+                                "verified": true,
+                                "warning": false,
+                                "country_code": "at"
+                            }
+                        },
+                        {
+                            "score": 1,
+                            "player": {
+                                "id": 208393,
+                                "name": "Nicov",
+                                "verified": true,
+                                "warning": false,
+                                "country_code": "ar"
+                            }
+                        }
+                    ],
+                    "started": true,
+                    "finished": true,
+                    "bestof": 7,
+                    "url": null,
+                    "drafts": [
+                        {
+                            "preset": "Warlords, Best of Seven, Map Draft",
+                            "url": "https:\/\/aoe2cm.net\/draft\/RHNYH",
+                            "type": "map"
+                        },
+                        {
+                            "preset": "Warlords, Best of Seven, Civilisation Draft",
+                            "url": "https:\/\/aoe2cm.net\/draft\/HIGIn",
+                            "type": "civ"
+                        }
+                    ],
+                    "missing": 0,
+                    "recs": true,
+                    "live": false
+                },
+                "warlords-quarterfinals-theviper-vs-yo": {
+                    "participants": [
+                        {
+                            "score": 4,
+                            "player": {
+                                "id": 196240,
+                                "name": "TheViper",
+                                "verified": true,
+                                "warning": false,
+                                "country_code": "no"
+                            }
+                        },
+                        {
+                            "score": 3,
+                            "player": {
+                                "id": 197964,
+                                "name": "Yo",
+                                "verified": true,
+                                "warning": false,
+                                "country_code": "cn"
+                            }
+                        }
+                    ],
+                    "started": true,
+                    "finished": true,
+                    "bestof": 7,
+                    "url": null,
+                    "drafts": [
+                        {
+                            "preset": "Warlords, Best of Seven, Map Draft",
+                            "url": "https:\/\/aoe2cm.net\/draft\/oWRTc",
+                            "type": "map"
+                        },
+                        {
+                            "preset": "Warlords, Best of Seven, Civilisation Draft",
+                            "url": "https:\/\/aoe2cm.net\/draft\/wWMfV",
+                            "type": "civ"
+                        }
+                    ],
+                    "missing": 0,
+                    "recs": true,
+                    "live": false
+                }
+            },
+            "Semifinals": {
+                "warlords-semifinals-hera-vs-vinchester": {
+                    "participants": [
+                        {
+                            "score": 4,
+                            "player": {
+                                "id": 199325,
+                                "name": "Hera",
+                                "verified": true,
+                                "warning": false,
+                                "country_code": "ca"
+                            }
+                        },
+                        {
+                            "score": 1,
+                            "player": {
+                                "id": 271202,
+                                "name": "Vinch",
+                                "verified": true,
+                                "warning": false,
+                                "country_code": "ru"
+                            }
+                        }
+                    ],
+                    "started": true,
+                    "finished": true,
+                    "bestof": 7,
+                    "url": null,
+                    "drafts": [
+                        {
+                            "preset": "Warlords, Best of Seven, Map Draft",
+                            "url": "https:\/\/aoe2cm.net\/draft\/IHNzg",
+                            "type": "map"
+                        },
+                        {
+                            "preset": "Warlords, Best of Seven, Civilisation Draft",
+                            "url": "https:\/\/aoe2cm.net\/draft\/AWfzR",
+                            "type": "civ"
+                        }
+                    ],
+                    "missing": 0,
+                    "recs": true,
+                    "live": false
+                },
+                "warlords-semifinals-liereyy-vs-theviper": {
+                    "participants": [
+                        {
+                            "score": 2,
+                            "player": {
+                                "id": 506898,
+                                "name": "Liereyy",
+                                "verified": true,
+                                "warning": false,
+                                "country_code": "at"
+                            }
+                        },
+                        {
+                            "score": 4,
+                            "player": {
+                                "id": 196240,
+                                "name": "TheViper",
+                                "verified": true,
+                                "warning": false,
+                                "country_code": "no"
+                            }
+                        }
+                    ],
+                    "started": true,
+                    "finished": true,
+                    "bestof": 7,
+                    "url": null,
+                    "drafts": [
+                        {
+                            "preset": "Warlords, Best of Seven, Map Draft",
+                            "url": "https:\/\/aoe2cm.net\/draft\/OfFpT",
+                            "type": "map"
+                        },
+                        {
+                            "preset": "Warlords, Best of Seven, Civilisation Draft",
+                            "url": "https:\/\/aoe2cm.net\/draft\/uXwXr",
+                            "type": "civ"
+                        }
+                    ],
+                    "missing": 0,
+                    "recs": true,
+                    "live": false
+                }
+            },
+            "Finals": {
+                "warlords-finals-liereyy-vs-vinchester": {
+                    "participants": [
+                        {
+                            "score": 3,
+                            "player": {
+                                "id": 506898,
+                                "name": "Liereyy",
+                                "verified": true,
+                                "warning": false,
+                                "country_code": "at"
+                            }
+                        },
+                        {
+                            "score": 1,
+                            "player": {
+                                "id": 271202,
+                                "name": "Vinch",
+                                "verified": true,
+                                "warning": false,
+                                "country_code": "ru"
+                            }
+                        }
+                    ],
+                    "started": true,
+                    "finished": true,
+                    "bestof": 5,
+                    "url": null,
+                    "drafts": [
+                        {
+                            "preset": "Warlords, Best of Five, Map Draft",
+                            "url": "https:\/\/aoe2cm.net\/draft\/NclYp",
+                            "type": "map"
+                        },
+                        {
+                            "preset": "Warlords, Best of Five, Civilisation Draft",
+                            "url": "https:\/\/aoe2cm.net\/draft\/Vseuh",
+                            "type": "civ"
+                        }
+                    ],
+                    "missing": 0,
+                    "recs": true,
+                    "live": false
+                },
+                "warlords-finals-hera-vs-theviper": {
+                    "participants": [
+                        {
+                            "score": 2,
+                            "player": {
+                                "id": 199325,
+                                "name": "Hera",
+                                "verified": true,
+                                "warning": false,
+                                "country_code": "ca"
+                            }
+                        },
+                        {
+                            "score": 5,
+                            "player": {
+                                "id": 196240,
+                                "name": "TheViper",
+                                "verified": true,
+                                "warning": false,
+                                "country_code": "no"
+                            }
+                        }
+                    ],
+                    "started": true,
+                    "finished": true,
+                    "bestof": 9,
+                    "url": null,
+                    "drafts": [
+                        {
+                            "preset": "Warlords, Best of Nine, Map Draft (9)",
+                            "url": "https:\/\/aoe2cm.net\/draft\/fEBuh",
+                            "type": "map"
+                        },
+                        {
+                            "preset": "Warlords, Best of Nine, Civilisation Draft",
+                            "url": "https:\/\/aoe2cm.net\/draft\/sphFM",
+                            "type": "civ"
+                        }
+                    ],
+                    "missing": 0,
+                    "recs": true,
+                    "live": false
+                }
+            }
+        },
+        "matches": [],
+        "tournament_id": "warlords",
+        "series_id": null
+    }
+}

@@ -1,0 +1,138 @@
+{
+	"cls": 10,
+	"target_id": null,
+	"data": [
+		{
+			"name": "Arabia",
+			"picks": [
+				{
+					"civilization": "Hindustanis",
+					"rate": 3.0
+				},
+				{
+					"civilization": "Mongols",
+					"rate": 2.5
+				},
+				{
+					"civilization": "Franks",
+					"rate": 2.1
+				},
+				{
+					"civilization": "Chinese",
+					"rate": 1.9
+				},
+				{
+					"civilization": "Gurjaras",
+					"rate": 1.9
+				}
+			],
+			"wins": [
+				{
+					"civilization": "Franks",
+					"rate": 59
+				},
+				{
+					"civilization": "Hindustanis",
+					"rate": 58
+				},
+				{
+					"civilization": "Vikings",
+					"rate": 57
+				},
+				{
+					"civilization": "Gurjaras",
+					"rate": 57
+				},
+				{
+					"civilization": "Huns",
+					"rate": 57
+				}
+			],
+			"dodges": 3.0,
+			"total": 88.2,
+			"duration": 2223,
+			"representative_id": 3714078
+		},
+		{
+			"name": "Arena",
+			"picks": [
+				{
+					"civilization": "Turks",
+					"rate": 5.4
+				},
+				{
+					"civilization": "Poles",
+					"rate": 5.4
+				},
+				{
+					"civilization": "Gurjaras",
+					"rate": 4.6
+				},
+				{
+					"civilization": "Burgundians",
+					"rate": 3.7
+				},
+				{
+					"civilization": "Aztecs",
+					"rate": 2.7
+				}
+			],
+			"wins": [
+				{
+					"civilization": "Dravidians",
+					"rate": 77
+				},
+				{
+					"civilization": "Malay",
+					"rate": 73
+				},
+				{
+					"civilization": "Bengalis",
+					"rate": 72
+				},
+				{
+					"civilization": "Bohemians",
+					"rate": 70
+				},
+				{
+					"civilization": "Italians",
+					"rate": 66
+				}
+			],
+			"dodges": 8.1,
+			"total": 11.7,
+			"duration": 2382,
+			"representative_id": 3714069
+		},
+		{
+			"name": "Four Lakes",
+			"picks": [
+				{
+					"civilization": "Mongols",
+					"rate": 21.0
+				},
+				{
+					"civilization": "Japanese",
+					"rate": 10.5
+				},
+				{
+					"civilization": "Lithuanians",
+					"rate": 10.5
+				},
+				{
+					"civilization": "Sicilians",
+					"rate": 10.5
+				},
+				{
+					"civilization": "Ethiopians",
+					"rate": 10.5
+				}
+			],
+			"wins": [],
+			"dodges": 20.0,
+			"total": 0.1,
+			"duration": 1839,
+			"representative_id": 3714066
+		}
+	]
+}

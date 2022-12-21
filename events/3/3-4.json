@@ -1,0 +1,116 @@
+{
+	"cls": 3,
+	"target_id": null,
+	"data": [
+		{
+			"cls": 2,
+			"target_id": 193196837,
+			"data": {
+				"casters": [],
+				"chat": [],
+				"diplomacy": "1v1",
+				"drafts": [],
+				"game_type": "RM",
+				"id": 193196837,
+				"link": "aoe2de:\/\/1\/193196837",
+				"map": "Arabia",
+				"paused": false,
+				"players": [
+					{
+						"age": "Dark",
+						"civilization": "Incas",
+						"color_hex": "#ea69e1",
+						"color_id": 5,
+						"composition": [],
+						"country_code": "us",
+						"id": 2059578,
+						"mirror": false,
+						"mmr_rm_1v1": 2037,
+						"mmr_rm_tg": 1782,
+						"name": "biscuit",
+						"number": 1,
+						"openings": [],
+						"random": false,
+						"random_team": false,
+						"rank_rm_1v1": 263,
+						"team": 1,
+						"team_number": 1,
+						"verified": false,
+						"warning": false
+					},
+					{
+						"age": "Dark",
+						"civilization": "Britons",
+						"color_hex": "#6599d8",
+						"color_id": 0,
+						"composition": [],
+						"country_code": "ar",
+						"id": 219739,
+						"mirror": false,
+						"mmr_rm_1v1": 2096,
+						"mmr_rm_tg": 1873,
+						"name": "Pela",
+						"number": 2,
+						"openings": [],
+						"random": false,
+						"random_team": false,
+						"rank_rm_1v1": 211,
+						"team": 0,
+						"team_number": 2,
+						"verified": true,
+						"warning": false
+					}
+				],
+				"rematch": false,
+				"score": "1-0 Pela",
+				"server": "eastus",
+				"specs_allowed": true,
+				"start_timestamp": 1669783397,
+				"team_names": {},
+				"team_size": "1v1",
+				"teams": [
+					[
+						219739
+					],
+					[
+						2059578
+					]
+				],
+				"validation_errors": []
+			}
+		},
+		{
+			"cls": 1,
+			"target_id": 219739,
+			"data": {
+				"country_code": "ar",
+				"id": 219739,
+				"last_match": 1669781828,
+				"match_count": 7480,
+				"match_diplomacy": "1v1",
+				"match_id": 193196837,
+				"match_map": "Arabia",
+				"match_vs": "biscuit",
+				"mmr_rm_1v1": 2096,
+				"name": "Pela",
+				"on_dashboard": false,
+				"online": true,
+				"playing": true,
+				"rank_rm_1v1": 211,
+				"rank_tournament": 75,
+				"spectate_link": "aoe2de:\/\/1\/193196837",
+				"status": "playing",
+				"streaming": false,
+				"team": "DarkSidE",
+				"verified": true,
+				"warning": false,
+				"watching": [
+					{
+						"url": "https:\/\/twitch.tv\/kingstone_aoe",
+						"name": "KingstoNe"
+					}
+				]
+			}
+		}
+	]
+}
