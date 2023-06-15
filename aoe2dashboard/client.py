@@ -207,11 +207,11 @@ class Client(object):
         pass
 
     async def event_unanalyzed(self, packet: PacketBase) -> None:
-        self.__logger.debug(f"unanalyzed packet: {packet.raw_data}")
+        self.__logger.debug(f"unanalyzed packet: '{packet.raw}'")
         # self.__logger.debug(f"unknown packet: {dumps(packet.raw, indent=2)}")
 
     async def event_unknown(self, packet: PacketBase) -> None:
-        self.__logger.warning(f"unknown packet: {packet.raw}")
+        self.__logger.warning(f"unknown packet: '{packet.raw}'")
         # self.__logger.debug(f"unknown packet: {dumps(packet.raw, indent=2)}")
 
     async def event_login(self, packet: PacketBase) -> None:
